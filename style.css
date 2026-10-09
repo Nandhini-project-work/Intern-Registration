@@ -1,0 +1,21 @@
+body{
+    background-color:#ebf2fc;
+    font-size: large;
+}
+label{
+    font-style: normal;
+    color: chocolate;
+}
+legend{
+    color: blue;
+    font-size: 19px;
+    font-style: bold;
+}
+fieldset{
+    border: 1px solid;
+    padding: auto;
+}
+h1{
+    text-align: center;
+    color: crimson;
+}
